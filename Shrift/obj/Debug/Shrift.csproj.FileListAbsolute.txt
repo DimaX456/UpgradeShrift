@@ -1,0 +1,8 @@
+C:\Users\slgwt\source\repos\Shrift\bin\Debug\Shrift.exe.config
+C:\Users\slgwt\source\repos\Shrift\bin\Debug\Shrift.exe
+C:\Users\slgwt\source\repos\Shrift\bin\Debug\Shrift.pdb
+C:\Users\slgwt\source\repos\Shrift\obj\Debug\Shrift.csproj.AssemblyReference.cache
+C:\Users\slgwt\source\repos\Shrift\obj\Debug\Shrift.csproj.SuggestedBindingRedirects.cache
+C:\Users\slgwt\source\repos\Shrift\obj\Debug\Shrift.csproj.CoreCompileInputs.cache
+C:\Users\slgwt\source\repos\Shrift\obj\Debug\Shrift.exe
+C:\Users\slgwt\source\repos\Shrift\obj\Debug\Shrift.pdb
